@@ -1,4 +1,4 @@
-# outlook-says
+# outlook-analytics
 
 For security reasons; 
 1.  (unless you wanted to read all your (private?) e-mail logs by the world) I've used gitattributes and gitconfig solution below
